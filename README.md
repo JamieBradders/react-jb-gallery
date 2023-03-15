@@ -1,3 +1,14 @@
+# Note
+
+This is a fork of react bnb gallery. I noticed the project went stale so I decided to fork the repo to see if I can bring it to life for newer versions of React.
+
+I'd advise against using this until this notice is removed.
+
+With love ❤️
+Bradders
+
+---
+
 <p>
   <img alt="react-bnb-gallery" width="250" src="https://raw.githubusercontent.com/peterpalau/react-bnb-gallery/master/rbg-logo.png" /><br />
   Friendly, customizable and accessible-ready simple photo gallery based on React.
